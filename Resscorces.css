@@ -44,7 +44,7 @@ a {
 
 p {
 	color:lightgray;
-	font-size: 18px;
+	font-size: 19px;
 	text-decoration: none;
 	font-family: sans-serif;
 	text-shadow:  1px  1px 1px black,
@@ -65,13 +65,10 @@ b {
 }
 
 s {
-	color: #ff84a7;
+	color: #aeb61b;
 	text-decoration: none;
 	font-family: sans-serif;
-	position: absolute;
- 	bottom: 15px;
-  	right: 8px;
-  	font-size: 30px;
+  	font-size: 27px;
 	text-shadow:  1px  1px 1px black,
                   1px -1px 1px black,
                  -1px  1px 1px black,
@@ -226,4 +223,5 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
+	
 }
