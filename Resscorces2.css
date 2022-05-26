@@ -53,8 +53,40 @@ p {
                  -1px -1px 1px black;
 }
 
+c {
+color: #19c1bb;
+	text-decoration: none;
+	font-family: sans-serif;
+  	font-size: 27px;
+	text-shadow:  1px  1px 1px black,
+                  1px -1px 1px black,
+                 -1px  1px 1px black,
+                 -1px -1px 1px black;
+}
+
 b {
 	color: #3cba6b;
+	font-size: 23px;
+	text-decoration: none;
+	font-family: sans-serif;
+	text-shadow:  1px  1px 1px black,
+                  1px -1px 1px black,
+                 -1px  1px 1px black,
+                 -1px -1px 1px black;
+}
+
+u {
+	color: #c348e4;
+	text-decoration: none;
+	font-family: sans-serif;
+	text-shadow:  1px  1px 1px black,
+                  1px -1px 1px black,
+                 -1px  1px 1px black,
+                 -1px -1px 1px black;
+}
+
+g {
+	color: #199ACE;
 	font-size: 23px;
 	text-decoration: none;
 	font-family: sans-serif;
